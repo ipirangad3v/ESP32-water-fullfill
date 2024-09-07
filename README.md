@@ -4,7 +4,7 @@ This project utilizes an Arduino to monitor the water level in a tank and automa
 
 ## Main Components
 
-- Arduino (version not specified)
+- generic ESP32 board
 - SSD1306 128x64 pixel OLED display
 - Ultrasonic distance sensor
 - Water pump
